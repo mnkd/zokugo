@@ -1,8 +1,9 @@
 # zokugo
 
 ## Installation
-
+```
 $ go get -u github.com/mnkd/zokugo
+```
 
 ## Usage
 ```
